@@ -8,7 +8,7 @@ Source0:	https://github.com/downloads/Hoglet/TimeIT/%{name}-%{version}.tar.gz
 # Source0-md5:	60a400e271527dfcdc8d05fd8160fbe3
 URL:		https://launchpad.net/timeit
 BuildRequires:	boost-devel >= 1.33
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	gtkmm-devel
 BuildRequires:	intltool
 BuildRequires:	pkg-config
